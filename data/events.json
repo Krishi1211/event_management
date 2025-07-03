@@ -1,0 +1,44 @@
+[
+  {
+    "id": "event-1",
+    "title": "Tech Innovations 2025",
+    "date": "2025-09-15",
+    "location": "San Francisco, CA",
+    "description": "Explore the latest trends in tech and AI."
+  },
+  {
+    "id": "event-2",
+    "title": "Future of Web Dev",
+    "date": "2025-10-05",
+    "location": "New York, NY",
+    "description": "Talks and workshops on frontend development."
+  },
+  {
+    "id": "event-1",
+    "title": "Tech Innovations 2025",
+    "date": "2025-09-15",
+    "location": "San Francisco, CA",
+    "description": "Explore the latest trends in tech and AI."
+  },
+  {
+    "id": "event-2",
+    "title": "Future of Web Dev",
+    "date": "2025-10-05",
+    "location": "New York, NY",
+    "description": "Talks and workshops on frontend development."
+  },
+  {
+    "id": "event-1",
+    "title": "Tech Innovations 2025",
+    "date": "2025-09-15",
+    "location": "San Francisco, CA",
+    "description": "Explore the latest trends in tech and AI."
+  },
+  {
+    "id": "event-2",
+    "title": "Future of Web Dev",
+    "date": "2025-10-05",
+    "location": "New York, NY",
+    "description": "Talks and workshops on frontend development."
+  }
+]
