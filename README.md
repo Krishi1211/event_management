@@ -17,12 +17,6 @@ A stunning, responsive event discovery platform built with **Next.js 13+ App Rou
 
 ---
 
-## 📸 Preview
-
-![Hero Screenshot](public/event-images/nextjs.jpg) <!-- Replace or add your custom hero image -->
-
----
-
 ## 🗂️ Folder Structure
 
 ```
@@ -46,7 +40,7 @@ public/
 ### Clone and Install
 
 ```bash
-git clone https://github.com/your-username/events-explorer.git
+git clone https://github.com/Krishi1211/event_management.git
 cd events-explorer
 npm install
 npm run dev
@@ -98,5 +92,5 @@ Licensed under the [MIT License](LICENSE).
 
 ## 💌 Contact
 
-Built with ❤️ by [Your Name]  
-Feel free to reach out via [youremail@example.com](mailto:youremail@example.com)
+Built with ❤️ by [Krishi Shah]  
+Feel free to reach out via [krishishah1211@gmail.com](mailto:krishishah1211@gmail.com)
