@@ -20,33 +20,10 @@ A stunning, responsive event discovery platform built with **Next.js 13+ App Rou
 
 ![Hero Screenshot](public/event-images/nextjs.jpg) <!-- Replace or add your custom hero image -->
 
----
-
-## 🗂️ Folder Structure
-
-src/
-├── app/
-│ ├── layout.tsx # Global layout
-│ ├── page.tsx # Landing page with filters and event cards
-│ └── events/[id]/page.tsx # Dynamic route for each event
-├── components/
-│ └── EventCard.tsx # Reusable event UI card
-├── data/
-│ └── events.ts # Static JSON-like array of event objects
-public/
-└── event-images/ # All static images for events
-
-yaml
-Copy
-Edit
-
----
-
 ## 🚀 Getting Started
 
 ### Clone and Install
 
-```bash
 git clone https://github.com/your-username/events-explorer.git
 cd events-explorer
 npm install
